@@ -11,3 +11,7 @@
 - Plotting graphs to track accuracy and loss
 - Added code to test model with new images
 
+## Commit 6 (25/10) - Increased MaxPooling Value - c13f47f2f993cd35c1f13ec90cbdef40390a072c:
+- Increased value of the first MaxPooling layer from (2, 2) to (3, 3)
+- Accuracy increased from 52% to 62.75%.
+
