@@ -18,3 +18,9 @@
 ## Commit 8 (25/10) - Increased All MaxPooling Values - 79d785935e099ec05c64a4370132d3b33c2f8e71:
 - Increased values of the all MaxPooling layers from (2, 2) to (3, 3)
 - Accuracy peaked at 70% but ended at 68% (Apply Regularization?)
+
+## Commit 10 (26/10) - Increased Two MaxPooling Values - a5d835aee4ce92c6889533101bcf4ddc285d191d:
+- Changig the value of the 1st and last MaxPooling Layer produced the highest accuracy of 73%
+- 2nd MaxPooling layers value changed back to (2, 2)
+
+
