@@ -23,4 +23,8 @@
 - Changig the value of the 1st and last MaxPooling Layer produced the highest accuracy of 73%
 - 2nd MaxPooling layers value changed back to (2, 2)
 
+## Commit 12 (15/11) - Increased All MPs & Adding Recordings - cf3441be6a45e5695eed74605e8b29991333b001:
+- Ran the algorithm multiple times for Two MaxPooling pool size increased and smade a spreadsheet
+- Ran the algorithm multiple times for all MaxPooling pool size increased and smade a spreadsheet
+- Accuracy was higher when all MaxPooling pool size were increased so model changed to that
 
