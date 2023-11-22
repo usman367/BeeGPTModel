@@ -28,3 +28,7 @@
 - Ran the algorithm multiple times for all MaxPooling pool size increased and smade a spreadsheet
 - Accuracy was higher when all MaxPooling pool size were increased so model changed to that
 
+## Commit 14 (22/11) - Increased All MPs to 4x4 - 4d0c3432f6b0f6dd12ac311c1232caf8576d41f1:
+- Accuracy was similar to 3x3 pooling layers but loss was significantly lower
+- So kept 4x4 layers as they make better predictions on unseen data
+
