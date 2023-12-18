@@ -32,3 +32,5 @@
 - Accuracy was similar to 3x3 pooling layers but loss was significantly lower
 - So kept 4x4 layers as they make better predictions on unseen data
 
+## Commit 16 (18/12) - Added Regularization - 873444f93000d163ba0b317b04549a4216c437e1:
+- Added regularization to prevent overfitting
