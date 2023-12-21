@@ -34,3 +34,7 @@
 
 ## Commit 16 (18/12) - Added Regularization - 873444f93000d163ba0b317b04549a4216c437e1:
 - Added regularization to prevent overfitting
+
+## Commit 18 (21/12) - Additional regularization tests - 892bf3464d39960b31b2a81f21ff9da338550d95:
+- Changed the number of epochs to 40 to obtaina clearer image of the model
+- Changed the testing style to obtain a clearer image of the model
